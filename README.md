@@ -1,4 +1,4 @@
-# magnetic-field-classifier
+# Magnetic-Field-Classifier
 Time series classification model trained on magnetometer data
 
 Arduino Nano 33 BLE Sense, the 3-axis magnetometer sensor of the LSM9DS1 module (IMU sensor). 

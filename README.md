@@ -5,6 +5,30 @@ Arduino Nano 33 BLE Sense, the 3-axis magnetometer sensor of the LSM9DS1 module 
 
 ![](img/pic_arduino_nano.png)
 
+## Machine Learning on Magnetic Field Signatures from Electric Current Flow for Induction Motor State Identification
+
+Induction motor to convert electrical energy into mechanical energy to perform work, for example, turning the blades of a table fan.
+
+Power is supplied to the motor via an electrical cable, which is connected to a power source such as a wall outlet.
+
+The power is then fed to the stator, which is the stationary part of the motor that consists of a series of windings made of copper wire.
+
+The alternating current passing through the stator windings creates a rotating magnetic field, which rotates at the same frequency as the AC power source.
+
+The rotor, which is the rotating part of the motor, is positioned in the center of the stator and consists of a series of conductive bars connected by end rings.
+
+As the rotating magnetic field passes over the rotor, it induces an electric current in the rotor bars, which in turn creates its own magnetic field.
+
+The interaction of the stator's rotating magnetic field and the rotor's magnetic field causes the rotor to spin, which is connected to the blades of the fan.
+
+The bearings support the rotor and reduce friction between the rotor and the stator, allowing for smooth and efficient operation.
+
+The speed of the induction motor-powered fan can be controlled by adjusting the voltage supplied to the motor, which changes the frequency of the rotating magnetic field produced by the stator.
+
+The induction motor in a device such as a table fan converts electrical energy into mechanical energy by using the interaction between the rotating magnetic field produced by the stator and the magnetic field induced in the rotor.
+
+## Arduino Nano 33 BLE Sense
+
 The Arduino Nano 33 BLE Sense is a microcontroller board based on the Nordic nRF52840 Bluetooth SoC (System on a Chip). The board measures 45 x 18 mm and has a compact form factor, making it ideal for small-sized projects. The board features a 32-bit ARM Cortex-M4F processor, running at 64 MHz, with 1MB of flash memory and 256KB of SRAM.
 
 The Arduino Nano 33 BLE Sense is equipped with a variety of sensors, including a 9-axis IMU (Inertial Measurement Unit) with accelerometer, gyroscope, and magnetometer, as well as a pressure sensor, a temperature sensor, and a humidity sensor. These sensors allow for the measurement of motion, orientation, atmospheric pressure, temperature, and humidity, making it well-suited for projects that require environmental sensing.
